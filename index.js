@@ -3,10 +3,7 @@ const app = express();
 
 app.get('/', (req, res) => {
     res.send({
-        hi: 'samuel is there',
-        "variable": "abc",
-        age: 30,
-        height: 1.79
+        nodeMan: 'Romani sentiremos sua falta :\'(',
     });
 })
 
