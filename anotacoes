@@ -1,3 +1,26 @@
 https://protected-wave-20024.herokuapp.com/
 
+https://www.udemy.com/node-with-react-fullstack-web-development/learn/v4/t/lecture/7593704?start=0
+
+
+Seção 3
+17. The OAuth Flow
+18. Overview of Passport JS
+19. Passport Setup
+21. Securing API Keys
+23. Testing OAuth
+24. Authorized Redirect URI's
+25. OAuth Callbacks
+
+
+
+
+https://accounts.google.com/o/oauth2/v2/auth?
+
+response_type=code&
+
+redirect_uri=http%3A%2F%2Flocalhost%3A5000%2Fauth%2Fgoogle%2Fcallback
+&scope=profile%20email
+&client_id=45413514776-9gsjaeuil1gn3dea13226744itqcsnpj.apps.googleusercontent.com
+
 
